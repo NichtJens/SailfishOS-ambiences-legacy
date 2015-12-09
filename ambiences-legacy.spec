@@ -17,8 +17,9 @@ babyflower camera grassroot moonship oldphone redtrain rope shadeofviolin storm
 
 
 %files
-%attr(0644, root, root) /usr/share/ambience
-%attr(0644, root, root) /usr/share/translations
+%defattr(-, root, root)
+/usr/share/ambience
+/usr/share/translations
 
 
 %prep
