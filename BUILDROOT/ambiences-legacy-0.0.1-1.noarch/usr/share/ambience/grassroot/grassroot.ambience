@@ -1,0 +1,11 @@
+{
+    "translationCatalog"        : "ambience-grassroot",
+    "displayName"               : "ambience-grassroot",
+    "wallpaper"                 : "ambience-grassroot.jpg",
+    "highlightColor"            : "#EBFF64",
+    "secondaryHighlightColor"   : "#FFCCB465",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFFFF",
+    "ringerVolume"              : -1,
+    "favorite"                  : false
+}

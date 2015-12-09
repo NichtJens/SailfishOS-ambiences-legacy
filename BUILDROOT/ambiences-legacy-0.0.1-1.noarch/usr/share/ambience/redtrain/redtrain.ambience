@@ -1,0 +1,11 @@
+{
+    "translationCatalog"        : "ambience-redtrain",
+    "displayName"               : "ambience-redtrain",
+    "wallpaper"                 : "ambience-redtrain.jpg",
+    "highlightColor"            : "#FF96BD",
+    "secondaryHighlightColor"   : "#FFCC7565",
+    "primaryColor"              : "#FDFFFC",
+    "secondaryColor"            : "#FFFDFFFC",
+    "ringerVolume"              : -1,
+    "favorite"                  : false
+}

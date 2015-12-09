@@ -1,0 +1,11 @@
+{
+    "translationCatalog"        : "ambience-babyflower",
+    "displayName"               : "ambience-babyflower",
+    "wallpaper"                 : "ambience-babyflower.jpg",
+    "highlightColor"            : "#C9FFE2",
+    "secondaryHighlightColor"   : "#FFBDCC65",
+    "primaryColor"              : "#FFFFE0",
+    "secondaryColor"            : "#FFFFFFE0",
+    "ringerVolume"              : -1,
+    "favorite"                  : false
+}

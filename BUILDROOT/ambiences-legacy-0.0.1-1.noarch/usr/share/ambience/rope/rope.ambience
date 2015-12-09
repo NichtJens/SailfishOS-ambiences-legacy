@@ -1,0 +1,11 @@
+{
+    "translationCatalog"        : "ambience-rope",
+    "displayName"               : "ambience-rope",
+    "wallpaper"                 : "ambience-rope.jpg",
+    "highlightColor"            : "#FFBA7F",
+    "secondaryHighlightColor"   : "#FFCC8865",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFFFF",
+    "ringerVolume"              : -1,
+    "favorite"                  : false
+}

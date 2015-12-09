@@ -1,0 +1,11 @@
+{
+    "translationCatalog"        : "ambience-storm",
+    "displayName"               : "ambience-storm",
+    "wallpaper"                 : "ambience-storm.jpg",
+    "highlightColor"            : "#FFEFA1",
+    "secondaryHighlightColor"   : "#FFCCAA65",
+    "primaryColor"              : "#FFEBD1",
+    "secondaryColor"            : "#FFFFEBD1",
+    "ringerVolume"              : -1,
+    "favorite"                  : false
+}

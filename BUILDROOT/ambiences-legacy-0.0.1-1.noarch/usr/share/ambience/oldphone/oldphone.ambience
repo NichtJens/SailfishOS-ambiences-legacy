@@ -1,0 +1,11 @@
+{
+    "translationCatalog"        : "ambience-oldphone",
+    "displayName"               : "ambience-oldphone",
+    "wallpaper"                 : "ambience-oldphone.jpg",
+    "highlightColor"            : "#E8C35F",
+    "secondaryHighlightColor"   : "#FFCC8867",
+    "primaryColor"              : "#FEFFEB",
+    "secondaryColor"            : "#FFFEFFEB",
+    "ringerVolume"              : -1,
+    "favorite"                  : false
+}

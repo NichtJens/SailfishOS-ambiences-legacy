@@ -1,0 +1,11 @@
+{
+    "translationCatalog"        : "ambience-camera",
+    "displayName"               : "ambience-camera",
+    "wallpaper"                 : "ambience-camera.jpg",
+    "highlightColor"            : "#91F8FF",
+    "secondaryHighlightColor"   : "#FF65B89A",
+    "primaryColor"              : "#FFFBE8",
+    "secondaryColor"            : "#FFFFFBE8",
+    "ringerVolume"              : -1,
+    "favorite"                  : false
+}

@@ -1,0 +1,11 @@
+{
+    "translationCatalog"        : "ambience-shadeofviolin",
+    "displayName"               : "ambience-shadeofviolin",
+    "wallpaper"                 : "ambience-shadeofviolin.jpg",
+    "highlightColor"            : "#ED8BEA",
+    "secondaryHighlightColor"   : "#FFCC91AA",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFFFF",
+    "ringerVolume"              : -1,
+    "favorite"                  : false
+}

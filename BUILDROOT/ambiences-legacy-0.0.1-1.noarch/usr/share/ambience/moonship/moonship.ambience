@@ -1,0 +1,11 @@
+{
+    "translationCatalog"        : "ambience-moonship",
+    "displayName"               : "ambience-moonship",
+    "wallpaper"                 : "ambience-moonship.jpg",
+    "highlightColor"            : "#9EC6FF",
+    "secondaryHighlightColor"   : "#FF6BBBBC",
+    "primaryColor"              : "#E3EDFB",
+    "secondaryColor"            : "#FFE3EDFB",
+    "ringerVolume"              : -1,
+    "favorite"                  : false
+}
