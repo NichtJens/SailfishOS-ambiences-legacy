@@ -14,6 +14,7 @@ Requires: ambienced
 %description
 Contains the SailfishOS v1.x ambiences removed from v2.x:
 babyflower camera grassroot moonship oldphone redtrain rope shadeofviolin storm
+And the original "Snow White" from before its update, renamed "White Snow" for parallel installation
 
 
 %files

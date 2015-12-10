@@ -1,0 +1,19 @@
+{
+    "translationCatalog"        : "ambience-white-snow",
+    "displayName"               : "ambience-white-snow",
+    "ringerToneFile"            : { "file": "", "enabled": 1 },
+    "messageToneFile"           : { "file": "", "enabled": 1 },
+    "mailToneFile"              : { "file": "", "enabled": 1 },
+    "internetCallToneFile"      : { "file": "", "enabled": 1 },
+    "chatToneFile"              : { "file": "", "enabled": 1 },
+    "calendarToneFile"          : { "file": "", "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "", "enabled": 1 },
+    "wallpaper"                 : "White_Snow.jpg",
+    "highlightColor"            : "#80D4FF",
+    "secondaryHighlightColor"   : "#80D4FF99",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFF99",
+    "ringerVolume"              : 60,
+    "favorite"			: true
+}
+
