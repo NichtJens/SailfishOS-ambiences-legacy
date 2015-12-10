@@ -19,8 +19,9 @@ And the original "Snow White" from before its update, renamed "White Snow" for p
 
 %files
 %defattr(-, root, root)
-/usr/share/ambience
-/usr/share/translations
+/usr/share/ambience/*/*.ambience
+/usr/share/ambience/*/images/*.jpg
+/usr/share/translations/*.qm
 
 
 %prep
